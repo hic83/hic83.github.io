@@ -80,7 +80,7 @@ categories: Games
 **Load #6**
 * 사치에의 권유를 거절한다
 * 오른쪽 -> BAD END <終わらぬ悪夢>
-* 
+
 **Load #7**
 * 안에 싼다 -> BAD END <最悪の結末>
 
