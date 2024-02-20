@@ -1,6 +1,7 @@
 ---
 title: STARLESS 21st Century nymphomaniacs
 categories: Games
+image: /assets/img/2024-02-20-starless-21st-century-nymphomaniacs-1.jpg
 ---
 
 * 기어오른다
