@@ -1,8 +1,16 @@
 ---
-title: STARLESS 21st Century nymphomaniacs
+title: STARLESS 21st Century nymphomaniacs 공략
 categories: Games
 image: /assets/img/2024-02-20-starless-21st-century-nymphomaniacs-1.jpg
 ---
+## 정보
+
+* 제목 : STARLESS 21st Century nymphomaniacs
+* 개발사 : Empress
+* 플랫폼 : Windows
+* 출시 : 2011년 8월 12일
+
+## 공략
 
 * 기어오른다
 * 정직하게 대답한다
