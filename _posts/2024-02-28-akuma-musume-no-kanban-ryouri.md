@@ -1,7 +1,7 @@
 ---
 title: 悪魔娘の看板料理(악마소녀의 간판요리) 공략
 categories: Games
-image: /assets/img/2024-02-28-akuma-musume-no-kanban-ryouri-1
+image: /assets/img/2024-02-28-akuma-musume-no-kanban-ryouri-1.png
 ---
 
 ## 정보
