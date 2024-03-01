@@ -103,14 +103,14 @@ image: /assets/img/2024-02-27-parfait-chocolat-second-brew-re-order-1.png
 * 12월 24일
   * Save #3
   * 푸드 코트 - 유이
-  * 유이 END
+  * 유이 Ending
 
 ### 카토리 레아
 
 * 12월 24일
   * Load #3
   * 브릭몰 밖 - 레아
-  * 레아 END
+  * 레아 Ending
 
 ### 유키노 아스카
 
@@ -141,7 +141,7 @@ image: /assets/img/2024-02-27-parfait-chocolat-second-brew-re-order-1.png
 
 * 12월 24일
   * 가게 안 - 아스카
-  * 아스카 END
+  * 아스카 Ending
 
 ### 스즈나미 카스리
 
@@ -228,7 +228,7 @@ image: /assets/img/2024-02-27-parfait-chocolat-second-brew-re-order-1.png
 
 * 12월 24일
   * 주방 - 카스리
-  * 카스리 END
+  * 카스리 Ending
 
 ### 스기사와 에마
 
@@ -297,7 +297,7 @@ image: /assets/img/2024-02-27-parfait-chocolat-second-brew-re-order-1.png
   * 주방 - 에마 & 리카코
   * Save #9
   * 돌아간다
-  * 에마 END
+  * 에마 Ending
 
 ### 나츠미 리카코
 
@@ -310,14 +310,14 @@ image: /assets/img/2024-02-27-parfait-chocolat-second-brew-re-order-1.png
 
 * 12월 24일
   * 주방 - 리카코
-  * 리카코 END
+  * 리카코 Ending
 
 * 12월 24일
   * Load #9
   * 기다린다
   * 기다린다
   * 기다린다
-  * 리카코 True END
+  * 리카코 True Ending
 
 ### 이벤트 회수
 
