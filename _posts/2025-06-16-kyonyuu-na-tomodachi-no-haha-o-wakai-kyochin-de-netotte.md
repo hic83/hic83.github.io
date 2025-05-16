@@ -1,10 +1,22 @@
-거유 친구 어머니를 젊은 왕자지로 네토리해 임신 하렘을 만드는 이야기
-巨乳な友達の母を若い巨チンで寝取って孕ませハーレムを作る話
+---
+title: 거유 친구 어머니를 젊은 왕자○로 네토리해 임신 하렘을 만드는 이야기
+categories: Manual
+image: /assets/img/2025-05-16-kyonyuu-na-tomodachi-no-haha-o-wakai-kyochin-de-netotte-1.jpg
+tags: Miel 
+---
 
-kyonyuu-na-tomodachi-no-haha-o-wakai-kyochin-de-netotte
+## 정보
 
-Miel
-2025년 04월 25일
+* 제목 : 거유 친구 어머니를 젊은 왕자○로 네토리해 임신 하렘을 만드는 이야기
+* 원제목 : 巨乳な友達の母を若い巨チンで寝取って孕ませハーレムを作る話
+* 개발사 : Miel
+* 플랫폼 : Windows
+* 출시 : 2025년 04월 25일
+* 오마케 : [다운로드](/assets/omake/kyonyuu-na-tomodachi-no-haha-o-wakai-kyochin-de-netotte.zip)
+
+---
+
+## 공략
 
 미선택지는 회상에서 선택할 수 없다.  
 세이브/로드를 반복하는 것보다 1회차 후 2회차에서 미선택지만 선택해 CG를 회수하는 것이 좋다.  
