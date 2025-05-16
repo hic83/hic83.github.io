@@ -48,18 +48,6 @@ refactor: true
 {% endif %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6006420005400026"
-     crossorigin="anonymous"></script>
-<!-- Top -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6006420005400026"
-     data-ad-slot="7094927997"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
   {% for post in posts %}
     <article class="card-wrapper card">
       <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
@@ -128,18 +116,6 @@ refactor: true
   {% endfor %}
 </div>
 <!-- #post-list -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6006420005400026"
-     crossorigin="anonymous"></script>
-<!-- Bottom -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6006420005400026"
-     data-ad-slot="8384275198"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 {% if paginator.total_pages > 1 %}
   {% include post-paginator.html %}
