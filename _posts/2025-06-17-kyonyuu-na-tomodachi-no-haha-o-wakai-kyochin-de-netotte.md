@@ -1,7 +1,7 @@
 ---
 title: 거유 친구 어머니를 젊은 왕자○로 네토리해 임신 하렘을 만드는 이야기
 categories: Manual
-image: /assets/img/2025-05-16-kyonyuu-na-tomodachi-no-haha-o-wakai-kyochin-de-netotte-1.jpg
+image: /assets/img/2025-05-17-kyonyuu-na-tomodachi-no-haha-o-wakai-kyochin-de-netotte-1.jpg
 tags: Miel 
 ---
 
