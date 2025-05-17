@@ -9,7 +9,7 @@ tags: Silky's
 
   * 제목 : 잃어버린 낙원, 실락원
   * 원제목 : 失われた楽園
-  * 개발사 : Silky's
+  * 개발사 : [Silky's](tags/silky-s)
   * 플랫폼 : DOS
   * 출시 : 1995년 4월 14일
 

@@ -9,7 +9,7 @@ tags: BISHOP
 
 * 제목 : 굴욕
 * 원제목 : 屈辱
-* 개발사 : BISHOP
+* 개발사 : [BISHOP](tags/bishop)
 * 플랫폼 : Windows
 * 출시 : 2017년 11월 24일
 * 오마케 : [다운로드](/assets/omake/kutsujoku.zip)

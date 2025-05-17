@@ -9,7 +9,7 @@ tags: 0verflow
 
 * 제목 : 스쿨데이즈, School Days
 * 원제목 : スクールデイズ
-* 개발사 : 0verflow
+* 개발사 : [0verflow](/tags/0verflow)
 * 플랫폼 : Windows
 * 출시 : 2005년 4월 28일
 * 한글화 : Espacio

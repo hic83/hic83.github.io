@@ -9,7 +9,7 @@ tags: Leaf
 
 * 제목 : 천사가 없는 12월
 * 원제목 : 天使のいない12月
-* 개발사 : Leaf
+* 개발사 : [Leaf](/tags/leaf)
 * 플랫폼 : Windows
 * 출시 : 2003년 9월 26일
 * 한글화 : Arcadia Studio(Beta)
