@@ -9,7 +9,7 @@ tags: Elf
 
 * 제목 : 미육의 향기
 * 원제목 : 媚肉の香り
-* 개발사 : [Elf](/tags/elf)
+* 개발사 : Elf
 * 플랫폼 : Windows
 * 출시 : 2008년 3월 28일
 * 한글화 : J2K Project, 팀 달빛아래

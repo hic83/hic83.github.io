@@ -9,7 +9,7 @@ tags: Leaf
 
   * 제목 : 투하트 2 XRATED, To Heart 2
   * 원제목 : トゥハート2 XRATED
-  * 개발사 : [Leaf](/tags/leaf)
+  * 개발사 : Leaf
   * 플랫폼 : Windows
   * 출시 : 2005년 12월 9일
   * 한글화 : 팀 바실리스크

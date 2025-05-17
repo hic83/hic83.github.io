@@ -9,7 +9,7 @@ tags: Miel
 
 * 제목 : 거유 친구 어머니를 젊은 왕자○로 네토리해 임신 하렘을 만드는 이야기
 * 원제목 : 巨乳な友達の母を若い巨チンで寝取って孕ませハーレムを作る話
-* 개발사 : [Miel](/tags/miel)
+* 개발사 : Miel
 * 플랫폼 : Windows
 * 출시 : 2025년 04월 25일
 * 오마케 : [다운로드](/assets/omake/kyonyuu-na-tomodachi-no-haha-o-wakai-kyochin-de-netotte.zip)

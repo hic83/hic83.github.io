@@ -9,7 +9,7 @@ tags: Heat-Soft
 
 * 제목 : 누나가 내 정액 팬츠를 입는 이유
 * 원제목 : 姉が僕の精液つきパンツをはく理由
-* 개발사 : [Heat-Soft](/tags/heat-soft)
+* 개발사 : Heat-Soft
 * 플랫폼 : Windows
 * 출시 : 2012년 11월 9일
 * 오마케 : [다운로드](/assets/omake/ane-ga-boku-no-seieki-tsuki-pantsu-o-haku-wake.zip)
