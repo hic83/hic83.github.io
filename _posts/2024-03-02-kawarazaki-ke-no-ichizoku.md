@@ -9,7 +9,7 @@ tags: Silky's
 
 * 제목 : 하원기가의 일족, 카와라자키가의 일족
 * 원제목 : 河原崎家の一族
-* 개발사 : [Silky's](tags/silky-s)
+* 개발사 : [Silky's](/tags/silky-s)
 * 플랫폼 : DOS
 * 출시 : 1993년 12월 22일
 

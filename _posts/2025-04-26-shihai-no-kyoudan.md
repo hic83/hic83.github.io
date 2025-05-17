@@ -9,7 +9,7 @@ tags: BISHOP
 
 * 제목 : 지배의 교단
 * 원제목 : 支配の教壇
-* 개발사 : [BISHOP](tags/bishop)
+* 개발사 : [BISHOP](/tags/bishop)
 * 플랫폼 : Windows
 * 출시 : 2018년 6월 29일
 * 오마케 : [다운로드](/assets/omake/shihai-no-kyoudan.zip)

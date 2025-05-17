@@ -9,7 +9,7 @@ tags: TYPE-MOON
 
 * 제목 : 월희
 * 원제목 : 月姬
-* 개발사 : [TYPE-MOON](tags/type-moon)
+* 개발사 : [TYPE-MOON](/tags/type-moon)
 * 플랫폼 : Windows
 * 출시 : 2000년 12월
 
