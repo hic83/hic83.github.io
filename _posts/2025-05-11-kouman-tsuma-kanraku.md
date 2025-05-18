@@ -2,7 +2,7 @@
 title: 거만한 아내 함락!! ~좋은 여자이지만 싫은 여자~
 categories: Omake
 image: /assets/img/2025-05-11-kouman-tsuma-kanraku-1.webp
-tags: スタジオポーク 
+tags: studio-pork 
 ---
 
 ## 정보
