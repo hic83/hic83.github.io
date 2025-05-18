@@ -2,14 +2,14 @@
 title: 굴욕 1 공략
 categories: Manual
 image: /assets/img/2025-04-30-kutsuzoku-1.jpg
-tags: BISHOP
+tags: bishop
 ---
 
 ## 정보
 
 * 제목 : 굴욕
 * 원제목 : 屈辱
-* 개발사 : BISHOP
+* 개발사 : [BISHOP](/tags/bishop)
 * 플랫폼 : Windows
 * 출시 : 2017년 11월 24일
 * 오마케 : [다운로드](/assets/omake/kutsujoku.zip)

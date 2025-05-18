@@ -2,14 +2,14 @@
 title: 악마소녀의 간판요리 공략
 categories: Manual
 image: /assets/img/2024-02-28-akuma-musume-no-kanban-ryouri-1.png
-tags: Softhouse Chara
+tags: softhouse-chara
 ---
 
 ## 정보
 
 * 제목 : 악마소녀의 간판요리
 * 원제목 : 悪魔娘の看板料理
-* 개발사 : Softhouse Chara
+* 개발사 : [Softhouse Chara](/tags/softhouse-chara)
 * 플랫폼 : Windows
 * 출시 : 2015년 2월 27일
 

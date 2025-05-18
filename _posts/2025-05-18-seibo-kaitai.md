@@ -2,14 +2,14 @@
 title: 성모잉태 ~음란한 도M 거유 엄마가 아들의 임신 아내가 될 때까지~
 categories: Manual
 image: /assets/img/2025-05-18-seibo-kaitai-1.jpg
-tags: ORCSOFT 
+tags: orcsoft 
 ---
 
 ## 정보
 
 * 제목 : 성모잉태 ~음란한 도M 거유 엄마가 아들의 임신 아내가 될 때까지~
 * 원제목 : 性母懐胎 ~淫乱ドM巨乳ママが息子の孕み妻になるまで~
-* 개발사 : ORCSOFT
+* 개발사 : [ORCSOFT](/tags/orcsoft)
 * 플랫폼 : Windows
 * 출시 : 2025년 03월 21일
 * 오마케 : [다운로드](/assets/omake/seibo-kaitai.zip)

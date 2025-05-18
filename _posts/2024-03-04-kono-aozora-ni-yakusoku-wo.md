@@ -2,14 +2,14 @@
 title: 이 푸른 하늘에 약속을 공략
 categories: Manual
 image: /assets/img/2024-03-04-kono-aozora-ni-yakusoku-wo-1.png
-tags: GIGA
+tags: giga
 ---
 
 ## 정보
 
 * 제목 : 이 푸른 하늘에 약속을
 * 원제목 : この青空に約束を―
-* 개발사 : GIGA
+* 개발사 : [GIGA](/tags/giga)
 * 플랫폼 : Windows
 * 출시 : 2006년 3월 31일
 * 한글화 : 팀 우타마루

@@ -2,14 +2,14 @@
 title: 파르페 쇼콜라 세컨드 브류 리오더 공략
 categories: Manual
 image: /assets/img/2024-02-27-parfait-chocolat-second-brew-re-order-1.png
-tags: GIGA
+tags: giga
 ---
 
 ## 정보
 
 * 제목 : Parfait Chocolat Second Brew Re-order, 파르페 쇼콜라 세컨드 브류 리오더
 * 원제목 : パルフェ ~ショコラ Second Brew~ Re-order
-* 개발사 : GIGA
+* 개발사 : [GIGA](/tags/giga)
 * 플랫폼 : Windows
 * 출시 : 2005년 3월 25일
 * 한글화 : 팀 우타마루

@@ -2,14 +2,14 @@
 title: 근친 교제 클럽 공략
 categories: Manual
 image: /assets/img/2025-05-14-kinshin-kousai-club-1.jpg
-tags: ぱちぱちそふと黒 
+tags: pachi-pachi-soft-kuro
 ---
 
 ## 정보
 
 * 제목 : 근친 교제 클럽
 * 원제목 : 近親交際倶楽部
-* 개발사 : ぱちぱちそふと黒
+* 개발사 : [Pachi Pachi Soft Kuro](/tags/pachi-pachi-soft-kuro)
 * 플랫폼 : Windows
 * 출시 : 2016년 11월 25일
 * 오마케 : [다운로드](/assets/omake/kinshin-kousai-club.zip)

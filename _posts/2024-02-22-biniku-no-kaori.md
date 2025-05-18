@@ -2,14 +2,14 @@
 title: 미육의 향기 공략
 categories: Manual
 image: /assets/img/2024-02-22-biniku-no-kaori-1.png
-tags: Elf
+tags: elf
 ---
 
 ## 정보
 
 * 제목 : 미육의 향기
 * 원제목 : 媚肉の香り
-* 개발사 : Elf
+* 개발사 : [Elf](/tags/elf)
 * 플랫폼 : Windows
 * 출시 : 2008년 3월 28일
 * 한글화 : J2K Project, 팀 달빛아래

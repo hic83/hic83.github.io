@@ -2,14 +2,14 @@
 title: 잃어버린 낙원, 실락원 공략
 categories: Manual
 image: /assets/img/2024-03-13-ushinawareta-rakuen-1.png
-tags: Silky's
+tags: silky-s
 ---
 
 ## 정보
 
   * 제목 : 잃어버린 낙원, 실락원
   * 원제목 : 失われた楽園
-  * 개발사 : Silky's
+  * 개발사 : [Silky's](/tags/silky-s)
   * 플랫폼 : DOS
   * 출시 : 1995년 4월 14일
 

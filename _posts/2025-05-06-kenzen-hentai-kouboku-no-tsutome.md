@@ -2,14 +2,14 @@
 title: 건전! 변태공무원의 업무 공략
 categories: Manual
 image: /assets/img/2025-05-06-kenzen-hentai-kouboku-no-tsutome-1.jpg
-tags: CLOCKUP
+tags: clockup
 ---
 
 ## 정보
 
 * 제목 : 건전! 변태공무원의 업무
 * 원제목 : 健全!変態公僕のツトメ
-* 개발사 : CLOCKUP
+* 개발사 : [CLOCKUP](/tags/clockup)
 * 플랫폼 : Windows
 * 출시 : 2019년 12월 20일
 * 오마케 : [다운로드](/assets/omake/kenzen-hentai-kouboku-no-tsutome.zip)

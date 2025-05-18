@@ -2,14 +2,14 @@
 title: 천사가 없는 12월 공략
 categories: Manual
 image: /assets/img/2024-03-07-tenshi-no-inai-12-gatsu-1.png
-tags: Leaf
+tags: leaf
 ---
 
 ## 정보
 
 * 제목 : 천사가 없는 12월
 * 원제목 : 天使のいない12月
-* 개발사 : Leaf
+* 개발사 : [Leaf](/tags/leaf)
 * 플랫폼 : Windows
 * 출시 : 2003년 9월 26일
 * 한글화 : Arcadia Studio(Beta)

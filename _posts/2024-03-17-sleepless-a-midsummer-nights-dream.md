@@ -2,13 +2,13 @@
 title: SLEEPLESS - A Midsummer Night’s Dream 공략
 categories: Manual
 image: /assets/img/2024-03-17-sleepless-a-midsummer-nights-dream-1.png
-tags: Empress
+tags: empress
 ---
 
 ## 정보
 
 * 제목 : SLEEPLESS - A Midsummer Night’s Dream
-* 개발사 : Empress
+* 개발사 : [Empress](/tags/empress)
 * 플랫폼 : Windows
 * 출시 : 2021년 6월 25일
 * 오마케 : [다운로드](/assets/omake/sleepless-a-midsummer-nights-dream.zip)

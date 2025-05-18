@@ -2,14 +2,14 @@
 title: 하원기가의 일족 공략
 categories: Manual
 image: /assets/img/2024-03-02-kawarazaki-ke-no-ichizoku-1.png
-tags: Silky's
+tags: silky-s
 ---
 
 ## 정보
 
 * 제목 : 하원기가의 일족, 카와라자키가의 일족
 * 원제목 : 河原崎家の一族
-* 개발사 : Silky's
+* 개발사 : [Silky's](/tags/silky-s)
 * 플랫폼 : DOS
 * 출시 : 1993년 12월 22일
 

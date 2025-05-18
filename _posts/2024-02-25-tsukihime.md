@@ -2,14 +2,14 @@
 title: 월희 공략
 categories: Manual
 image: /assets/img/2024-02-25-tsukihime-1.png
-tags: TYPE-MOON
+tags: type-moon
 ---
 
 ## 정보
 
 * 제목 : 월희
 * 원제목 : 月姬
-* 개발사 : TYPE-MOON
+* 개발사 : [TYPE-MOON](/tags/type-moon)
 * 플랫폼 : Windows
 * 출시 : 2000년 12월
 

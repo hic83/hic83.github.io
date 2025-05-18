@@ -2,14 +2,14 @@
 title: 사야의 노래 공략
 categories: Manual
 image: /assets/img/2024-02-23-saya-no-uta-1.png
-tags: Nitro+
+tags: nitro
 ---
 
 ## 정보
 
 * 제목 : 사야의 노래
 * 원제목 : 沙耶の唄
-* 개발사 : Nitro+
+* 개발사 : [Nitro+](/tags/nitro)
 * 플랫폼 : Windows
 * 출시 : 2003년 12월 16일
 * 한글화 : 팀 바실리스크

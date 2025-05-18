@@ -2,14 +2,14 @@
 title: 지배의 교단 공략
 categories: Manual
 image: /assets/img/2025-04-26-shihai-no-kyoudan-1.jpg
-tags: BISHOP
+tags: bishop
 ---
 
 ## 정보
 
 * 제목 : 지배의 교단
 * 원제목 : 支配の教壇
-* 개발사 : BISHOP
+* 개발사 : [BISHOP](/tags/bishop)
 * 플랫폼 : Windows
 * 출시 : 2018년 6월 29일
 * 오마케 : [다운로드](/assets/omake/shihai-no-kyoudan.zip)

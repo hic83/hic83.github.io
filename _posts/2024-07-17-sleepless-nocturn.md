@@ -2,13 +2,13 @@
 title: SLEEPLESS Nocturn 공략
 categories: Manual
 image: /assets/img/2024-07-17-sleepless-nocturn-1.png
-tags: Empress
+tags: empress
 ---
 
 ## 정보
 
 * 제목 : SLEEPLESS Nocturn
-* 개발사 : Empress
+* 개발사 : [Empress](/tags/empress)
 * 플랫폼 : Windows
 * 출시 : 2022년 6월 24일
 * 오마케 : [다운로드](/assets/omake/sleepless-nocturn.zip)

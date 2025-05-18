@@ -2,12 +2,12 @@
 title: STARLESS 21st Century nymphomaniacs 공략
 categories: Manual
 image: /assets/img/2024-02-20-starless-21st-century-nymphomaniacs-1.jpg
-tags: Empress
+tags: empress
 ---
 ## 정보
 
 * 제목 : STARLESS 21st Century nymphomaniacs
-* 개발사 : Empress
+* 개발사 : [Empress](/tags/empress)
 * 플랫폼 : Windows
 * 출시 : 2011년 8월 12일
 * 오마케 : [다운로드](/assets/omake/starless-21st-century-nymphomaniacs.zip)
