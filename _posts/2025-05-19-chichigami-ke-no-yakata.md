@@ -1,7 +1,7 @@
 ---
 title: 유신가의 관 - 음욕의 247 공략
 categories: Manual
-image: /assets/img/2025-05-18-chichigami-ke-no-yakata-1.jpg
+image: /assets/img/2025-05-19-chichigami-ke-no-yakata-1.jpg
 tags: kamichichi
 ---
 
