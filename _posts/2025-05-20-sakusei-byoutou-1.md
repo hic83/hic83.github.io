@@ -12,4 +12,4 @@ tags: だーくワン!
 * 개발사 : だーくワン!
 * 플랫폼 : Windows
 * 출시 : 2021년 4월 30일
-* 오마케 : [다운로드](/assets/omake/itsuwari-no-seibo.zip)
+* 오마케 : [다운로드](/assets/omake/sakusei-byoutou-1.zip)
