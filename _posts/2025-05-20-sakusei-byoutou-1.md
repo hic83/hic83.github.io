@@ -1,7 +1,7 @@
 ---
 title: 착정병동 1 ~성격 최악의 간호사뿐인 병원에서 사정관리생활~
 categories: Omake
-image: /assets/img/2025-05-20-itsuwari-no-seibo-1
+image: /assets/img/2025-05-20-sakusei-byoutou-1-1.jpg
 tags: だーくワン!
 ---
 
