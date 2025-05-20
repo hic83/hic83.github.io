@@ -1,5 +1,5 @@
 ---
-title: 성모잉태 ~음란한 도M 거유 엄마가 아들의 임신 아내가 될 때까지~
+title: 성모잉태 ~음란한 도M 거유 엄마가 아들의 임신 아내가 될 때까지~ 공략
 categories: Manual
 image: /assets/img/2025-05-18-seibo-kaitai-1.jpg
 tags: orcsoft 
