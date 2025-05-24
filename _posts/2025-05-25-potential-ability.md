@@ -1,7 +1,7 @@
 ---
 title: 포텐셜 어빌리티 공략
 categories: Manual
-image: /assets/img/potential-ability-1.jpg
+image: /assets/img/2025-05-25-potential-ability-1.jpg
 tags: empress
 ---
 
