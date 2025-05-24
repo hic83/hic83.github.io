@@ -20,7 +20,7 @@ tags: pachi-pachi-soft-kuro
 
 ※ 괄호로 표시된 것은 아무거나 선택해도 무방하다는 뜻  
 
-### Ending #1
+### End #1
 * 다른 동아리 활동을 찾아 보도록 말한다
 * 얼굴을 돌려 보지 않도록 한다(스커트의 길이를 주의 준다)
 * 딸의 몸으로 자위 한다
@@ -42,32 +42,32 @@ tags: pachi-pachi-soft-kuro
 * **Save#05**
 * 냉정하게 거절한다
 
-### Ending #2
+### End #2
 
 * **Load#02**
 * 솔직하게 대답한다
 
-### Ending #3
+### End #3
 
 * **Load#04**
 * 그래도 딸을 밖으로 데리고 나간다
 * **Save#06**
 * 진심을 전하고 설득한다
 
-### Ending #4
+### End #4
 * **Load#05**
 * 진심을 전하고 설득한다
 
-### Ending #5
+### End #5
 * **Load#06**
 * 냉정하게 거절한다
 
-### Bad Ending #1
+### Bad End #1
 
 * **Load#01**
 * 삭제한다
 
-### Bad Ending #2
+### Bad End #2
 
 * **Load#03**
 * 각오를 결심하고 아내에게 전부 밝힌다
