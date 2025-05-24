@@ -16,7 +16,7 @@ tags: pin-point
 
 ---
 
-## End #1
+## Ending #1
 
 * 답변을 하지 않는다
 * *제목은 원하는 대로 선택한다*
@@ -29,7 +29,7 @@ tags: pin-point
 
 ---
 
-## End #2
+## Ending #2
 
 * **Load#01**
 * 애널

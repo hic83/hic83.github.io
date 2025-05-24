@@ -11,17 +11,13 @@ tags: orcsoft
 * 원제목 : ムチムチ デカパイ マラ喰い サキュバスママは果たして義母(ママ)なのか?
 * 개발사 : [ORCSOFT](/tags/orcsoft)
 * 플랫폼 : Windows
-* 출시 : 2017년 12월 1일
+* 출시 : 2023년 6월 24일
 * 오마케 : [다운로드](/assets/omake/muchimuchi-dekapai-marakui-succubus-mama.zip)
 
 ---
+## 공략
 
-
-
-2023년 06월 24일
-ORCSOFT
-
-### End #01
+### Ending #01
 
 * 시작한다
 * 이것이 꿈이라는건 있을 수 없어
@@ -30,7 +26,7 @@ ORCSOFT
 * 점장이 제정신인지 의심한다
 * 빨래라도 해볼까
 
-### End #02
+### Ending #02
 
 * **Load#01**
 * 마나카씨의 얼굴을 바라본다
@@ -39,12 +35,12 @@ ORCSOFT
 * **Save#02**
 * SM플레이용 굿즈
 
-### End #03
+### Ending #03
 
 * **Load#02**
 * 코스튬 플레이용 굿즈
 
-### End #04
+### Ending #04
 
 * **Load#02**
 * 최면 플레이용 굿즈
