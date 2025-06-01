@@ -1,5 +1,5 @@
 ---
-title: 지배의 교단 공략
+title: 지배의 교단 1 공략
 categories: Manual
 image: /assets/img/2025-04-26-shihai-no-kyoudan-1-1.jpg
 tags: bishop
