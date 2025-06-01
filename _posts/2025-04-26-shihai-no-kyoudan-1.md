@@ -1,7 +1,7 @@
 ---
 title: 지배의 교단 공략
 categories: Manual
-image: /assets/img/2025-04-26-shihai-no-kyoudan-1.jpg
+image: /assets/img/2025-04-26-shihai-no-kyoudan-1-1.jpg
 tags: bishop
 ---
 
@@ -12,7 +12,7 @@ tags: bishop
 * 개발사 : [BISHOP](/tags/bishop)
 * 플랫폼 : Windows
 * 출시 : 2018년 6월 29일
-* 오마케 : [다운로드](/assets/omake/shihai-no-kyoudan.zip)
+* 오마케 : [다운로드](/assets/omake/shihai-no-kyoudan-1.zip)
 
 ---
 
