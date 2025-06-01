@@ -21,7 +21,7 @@ permalink: /feed.xml
       <link>{{ "/" | absolute_url }}</link>
     </image>
 
-    {% for post in site.posts limit: 5 %}
+    {% for post in site.posts limit: 10 %}
     {% assign post_absolute_url = post.url | absolute_url %}
     <item>
       <title>{{ post.title }}</title>
