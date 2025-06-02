@@ -1,7 +1,7 @@
 ---
 title: 원녀교제 ~아리사의 정사~
 categories: Omake
-image: /assets/img/2025-06-03-enjo-kousai-arisa-no-jouji.png
+image: /assets/img/2025-06-03-enjo-kousai-arisa-no-jouji-1.png
 tags: pachipachi-soft
 ---
 
