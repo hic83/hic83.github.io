@@ -1,7 +1,7 @@
 ---
 title: 창모 세이카 ~배덕의 교제~ 공략
 categories: Manual
-image: /assets/img/2025-06-27-shoubo-seika-haitoku-no-majiwari.jpg
+image: /assets/img/2025-06-27-shoubo-seika-haitoku-no-majiwari-1.jpg
 tags: rose-crown
 ---
 
