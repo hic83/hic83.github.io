@@ -1,7 +1,7 @@
 ---
 title: 새 엄마는 아들을 사랑해! 1 ~어머니에게 응석부려도 좋아요… 린코 엄마의 엣치하게 보살피는 사정~ 공략
 categories: Manual
-image: /assets/img/mama-haha-wa-musuko-o-aishiteru-1.jpg
+image: /assets/img/2025-07-02-mama-haha-wa-musuko-o-aishiteru-1.jpg
 tags: anim
 ---
 
