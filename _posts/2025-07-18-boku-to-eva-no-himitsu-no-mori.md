@@ -1,7 +1,7 @@
 ---
 title: 나와 에바의 비밀의 숲 공략
 categories: Manual
-image: /assets/img/boku-to-eva-no-himitsu-no-mori-1.jpg
+image: /assets/img/2025-07-18-boku-to-eva-no-himitsu-no-mori-1.jpg
 tags: chaos-r freak-strike
 ---
 
