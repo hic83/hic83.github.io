@@ -13,6 +13,8 @@ tags: empress
 * 출시 : 2022년 6월 24일
 * 오마케 : [다운로드](/assets/omake/sleepless-nocturn.zip)
 
+---
+
 ## 공략
 
 ### Route #1
@@ -30,6 +32,8 @@ tags: empress
 
   * **Load #3**
   * 지금 당장 여기에서 도망친다 => Ending #2 (암컷 타락)
+
+---
 
 ### Route #2
   * **Load #1**

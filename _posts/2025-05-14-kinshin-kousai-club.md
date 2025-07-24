@@ -42,10 +42,14 @@ tags: pachi-pachi-soft-kuro
 * **Save#05**
 * 냉정하게 거절한다
 
+---
+
 ### Ending #2
 
 * **Load#02**
 * 솔직하게 대답한다
+
+---
 
 ### Ending #3
 
@@ -54,18 +58,26 @@ tags: pachi-pachi-soft-kuro
 * **Save#06**
 * 진심을 전하고 설득한다
 
+---
+
 ### Ending #4
 * **Load#05**
 * 진심을 전하고 설득한다
+
+---
 
 ### Ending #5
 * **Load#06**
 * 냉정하게 거절한다
 
+---
+
 ### Bad Ending #1
 
 * **Load#01**
 * 삭제한다
+
+---
 
 ### Bad Ending #2
 
