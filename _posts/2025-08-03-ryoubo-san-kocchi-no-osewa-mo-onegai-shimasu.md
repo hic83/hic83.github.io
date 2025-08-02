@@ -1,7 +1,7 @@
 ---
 title: 사감님, 이쪽의 신세도 부탁드려요! ~네, 기꺼이! 그쪽 체력도 끝이 없군요!!~
 categories: Omake
-image: /assets/img/ryoubo-san-kocchi-no-osewa-mo-onegai-shimasu-1.jpg
+image: /assets/img/2025-08-03-ryoubo-san-kocchi-no-osewa-mo-onegai-shimasu-1.jpg
 tags: appetite
 ---
 
