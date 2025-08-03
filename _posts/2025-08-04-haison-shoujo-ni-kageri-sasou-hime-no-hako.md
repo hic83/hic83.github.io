@@ -31,6 +31,7 @@ tags: escu-de
 * 여기까지로 하자
 * **Save#03**
 * 스즈랑 같이 간다
+
 ※ Ending 이후 Title 화면의 **FLOW CHART**에서 **후야제에서** 감상  
 
 ---
@@ -57,6 +58,7 @@ tags: escu-de
 * 진실도 알고 싶다
 * **Save#04**
 * 아무에게도 만나고 싶지 않았다
+
 ※ Ending 이후 Title 화면의 **FLOW CHART**에서 **청소와 봉사** 감상  
 
 ---
@@ -77,6 +79,7 @@ tags: escu-de
 그래도, 진실을 찾겠다
 * **Save#06**
 * 바닷가 쪽으로 산책하러 나간다
+
 ※ Ending 이후 Title 화면의 **FLOW CHART**에서 **붉게 물드는 시간 하루나** 감상  
 
 ---
@@ -85,6 +88,7 @@ tags: escu-de
 
 * **Load#06**
 * 산 쪽으로 산책하러 나간다
+
 ※ Ending 이후 Title 화면의 **FLOW CHART**에서 **붉게 물드는 시간 츠구미** 감상  
 
 ---
@@ -94,4 +98,5 @@ tags: escu-de
 ※ 모든 Ending을 본 후  
 * **Load#06**
 * 얌전히 한숨 돌린다
+
 ※ Ending 이후 Title 화면의 **FLOW CHART**에서 **태양과 달** 감상  
