@@ -13,6 +13,9 @@ tags: clockup
 * 플랫폼 : Windows
 * 출시 : 2019년 12월 20일
 * 오마케 : [다운로드](/assets/omake/kenzen-hentai-kouboku-no-tsutome.zip)
+{% comment %}
+https://arca.live/b/atelier2/51704709
+{% endcomment %}
 
 ---
 

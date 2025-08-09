@@ -13,6 +13,9 @@ tags: pachi-pachi-soft-kuro
 * 플랫폼 : Windows
 * 출시 : 2016년 11월 25일
 * 오마케 : [다운로드](/assets/omake/kinshin-kousai-club.zip)
+{% comment %}
+https://arca.live/b/atelier2/50794440
+{% endcomment %}
 
 ---
 

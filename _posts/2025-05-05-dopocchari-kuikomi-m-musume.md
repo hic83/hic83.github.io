@@ -13,6 +13,9 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2022년 3월 11일
 * 오마케 : [다운로드](/assets/omake/dopocchari-kuikomi-m-musume.zip)
+{% comment %}
+https://arca.live/b/atelier2/48291868
+{% endcomment %}
 
 ---
 

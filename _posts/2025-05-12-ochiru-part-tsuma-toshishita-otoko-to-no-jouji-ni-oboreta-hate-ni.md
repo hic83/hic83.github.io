@@ -13,3 +13,6 @@ tags: studio-pork
 * 플랫폼 : Windows
 * 출시 : 2023년 9월 5일
 * 오마케 : [다운로드](/assets/omake/ochiru-part-tsuma-toshishita-otoko-to-no-jouji-ni-oboreta-hate-ni.zip)
+{% comment %}
+https://arca.live/b/atelier2/82887970
+{% endcomment %}

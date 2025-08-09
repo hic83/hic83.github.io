@@ -13,6 +13,9 @@ tags: miel
 * 플랫폼 : Windows
 * 출시 : 2025년 04월 25일
 * 오마케 : [다운로드](/assets/omake/kyonyuu-na-tomodachi-no-haha-o-wakai-kyochin-de-netotte.zip)
+{% comment %}
+https://arca.live/b/atelier2/135253250
+{% endcomment %}
 
 ---
 

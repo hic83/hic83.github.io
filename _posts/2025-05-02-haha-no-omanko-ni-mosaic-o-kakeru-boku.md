@@ -13,6 +13,8 @@ tags: pin-point
 * 플랫폼 : Windows
 * 출시 : 2023년 10월 6일
 * 오마케 : [다운로드](/assets/omake/haha-no-omanko-ni-mosaic-o-kakeru-boku.zip)
+{% comment %}
+{% endcomment %}
 
 ---
 

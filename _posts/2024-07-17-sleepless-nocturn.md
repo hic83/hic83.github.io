@@ -12,6 +12,9 @@ tags: empress
 * 플랫폼 : Windows
 * 출시 : 2022년 6월 24일
 * 오마케 : [다운로드](/assets/omake/sleepless-nocturn.zip)
+{% comment %}
+https://arca.live/b/atelier2/64441057
+{% endcomment %}
 
 ---
 

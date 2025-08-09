@@ -13,6 +13,9 @@ tags: orcsoft
 * 플랫폼 : Windows
 * 출시 : 2025년 03월 21일
 * 오마케 : [다운로드](/assets/omake/seibo-kaitai.zip)
+{% comment %}
+https://arca.live/b/atelier2/132147715
+{% endcomment %}
 
 ---
 
@@ -27,10 +30,14 @@ tags: orcsoft
 * **Save#02**
 * 그녀석으로부터 완전히 빼앗고 싶다
 
+---
+
 ### Ending #2 나는 엄마와 행복해진다
 
 * **Load#02**
 * 연인이 되어 꽁냥대고 싶다
+
+---
 
 ### Ending #3 엄마가 원하는 모든 것을 주고
 
@@ -39,6 +46,8 @@ tags: orcsoft
 * 관리해줄게
 * **Save#03**
 * 마조 노예로서 조련하고 싶다
+
+---
 
 ### Ending #4 언젠가 나만의 것으로
 

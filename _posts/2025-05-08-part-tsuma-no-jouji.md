@@ -13,3 +13,5 @@ tags: studio-pork
 * 플랫폼 : Windows
 * 출시 : 2018년 12월 4일
 * 오마케 : [다운로드](/assets/omake/part-tsuma-no-jouji.zip)
+{% comment %}
+{% endcomment %}

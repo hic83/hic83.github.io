@@ -12,6 +12,9 @@ tags: empress
 * 플랫폼 : Windows
 * 출시 : 2021년 6월 25일
 * 오마케 : [다운로드](/assets/omake/sleepless-a-midsummer-nights-dream.zip)
+{% comment %}
+https://arca.live/b/atelier2/56872015
+{% endcomment %}
 
 ---
 

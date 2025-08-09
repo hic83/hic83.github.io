@@ -13,3 +13,5 @@ tags: elf
 * 플랫폼 : Windows
 * 출시 : 2009년 8월 28일
 * 오마케 : [다운로드](/assets/omake/wakazuma-mangekyou.zip)
+{% comment %}
+{% endcomment %}

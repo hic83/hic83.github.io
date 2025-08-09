@@ -13,4 +13,6 @@ tags: studio-pork
 * 플랫폼 : Windows
 * 출시 : 2020년 2월 13일
 * 오마케 : [다운로드](/assets/omake/hirusagari-yokkyuu-fuman-na-hitozuma-tachi-wa.zip)
-
+{% comment %}
+https://arca.live/b/atelier2/54153787
+{% endcomment %}

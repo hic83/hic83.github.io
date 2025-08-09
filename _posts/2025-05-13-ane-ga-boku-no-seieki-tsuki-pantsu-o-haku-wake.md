@@ -13,6 +13,9 @@ tags: heat-soft
 * 플랫폼 : Windows
 * 출시 : 2012년 11월 9일
 * 오마케 : [다운로드](/assets/omake/ane-ga-boku-no-seieki-tsuki-pantsu-o-haku-wake.zip)
+{% comment %}
+https://arca.live/b/atelier2/55664497
+{% endcomment %}
 
 ---
 

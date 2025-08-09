@@ -13,3 +13,5 @@ tags: studio-pork
 * 플랫폼 : Windows
 * 출시 : 2012년 3월 2일
 * 오마케 : [다운로드](/assets/omake/bakunyuu-dekajiri-ama-oba-san.zip)
+{% comment %}
+{% endcomment %}

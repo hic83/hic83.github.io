@@ -13,3 +13,5 @@ tags: yasaniki
 * 플랫폼 : Windows
 * 출시 : 2022년 12월 8일
 * 오마케 : [다운로드](/assets/omake/otonari-no-okusama-wa-kyo-mo-hitori-2.zip)
+{% comment %}
+{% endcomment %}

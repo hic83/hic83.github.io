@@ -13,3 +13,6 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2025년 4월 11일
 * 오마케 : [다운로드](/assets/omake/musume-x-musume-swapping.zip)
+{% comment %}
+https://arca.live/b/atelier2/134047395
+{% endcomment %}

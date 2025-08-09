@@ -13,3 +13,5 @@ tags: studio-pork
 * 플랫폼 : Windows
 * 출시 : 2017년 9월 10일
 * 오마케 : [다운로드](/assets/omake/yukemuri-hitozuma-bojou-tabi.zip)
+{% comment %}
+{% endcomment %}
