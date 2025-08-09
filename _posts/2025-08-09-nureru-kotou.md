@@ -13,6 +13,9 @@ tags: waffle
 * 플랫폼 : Windows
 * 출시 : 2022년 7월 29일
 * 오마케 : [다운로드](/assets/omake/nureru-kotou.zip)
+{% comment %}
+https://arca.live/b/atelier2/56961944
+{% endcomment %}
 
 ---
 
