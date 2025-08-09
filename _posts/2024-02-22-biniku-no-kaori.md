@@ -14,6 +14,10 @@ tags: elf
 * 출시 : 2008년 3월 28일
 * 한글화 : J2K Project, 팀 달빛아래
 * 오마케 : [다운로드](/assets/omake/biniku-no-kaori.zip)
+{% comment %}
+{% endcomment %}
+
+---
 
 ## 공략
 

@@ -12,6 +12,10 @@ tags: softhouse-chara
 * 개발사 : [Softhouse Chara](/tags/softhouse-chara)
 * 플랫폼 : Windows
 * 출시 : 2015년 2월 27일
+{% comment %}
+{% endcomment %}
+
+---
 
 ## 공략
 
@@ -26,6 +30,8 @@ tags: softhouse-chara
 * 라이제 : 카레 종류
 * 키이 : 정식 종류
 * 사시아네 : 덮밥 종류
+
+---
 
 ### Recipe
 

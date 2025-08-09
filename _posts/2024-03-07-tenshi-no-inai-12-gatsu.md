@@ -13,6 +13,10 @@ tags: leaf
 * 플랫폼 : Windows
 * 출시 : 2003년 9월 26일
 * 한글화 : Arcadia Studio(Beta)
+{% comment %}
+{% endcomment %}
+
+---
 
 ## 공략
 
@@ -51,6 +55,8 @@ tags: leaf
 
 * 아스나씨의 마음에 대답 한다 => 아스나 Normal Ending
 * **대답을 모르겠다** => 토우코 True Ending
+
+---
 
 ### 사카키 시노부
 
@@ -97,6 +103,8 @@ tags: leaf
 * **만나러 간다** => 사카키 True Ending
 * 만나러 가지 않는다 => 사카키 Normal Ending
 
+---
+
 ### 하즈키 마호
  
 * 이걸로 괜찮은 것인가?
@@ -123,7 +131,9 @@ tags: leaf
 
 * **간다** => 마호 True Ending
 * 가지 않는다
- 
+
+---
+
 ### 아소 아스나
  
 * 이걸로 괜찮은 것인가?
@@ -150,7 +160,9 @@ tags: leaf
 
 * 하지만 이미 나에게는 쿠리하라 밖에 없다 => 토우코 Normal Ending
 * **쿠리하라와는 무언가가 다르다** => 아스나 True Ending
- 
+
+---
+
 ### 스마데라 유키오
  
 * 이걸로 괜찮은 것인가?

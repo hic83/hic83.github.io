@@ -12,6 +12,10 @@ tags: type-moon
 * 개발사 : [TYPE-MOON](/tags/type-moon)
 * 플랫폼 : Windows
 * 출시 : 2000년 12월
+{% comment %}
+{% endcomment %}
+
+---
 
 ## 공략
 
@@ -59,6 +63,8 @@ tags: type-moon
 * **Save**<br> 쓸데없는 일이 되더라도 알퀘이드를 찾아야만 한다. => True Ending
 * **Load**<br> 약속을 지킨다. => True Ending<br> 알퀘이드를 잊을 수 없다. => Good Ending
 
+---
+
 ### 시엘
 
 * ...어쩐지 신경이 쓰인다. 상황을 보러 가자.
@@ -98,6 +104,8 @@ tags: type-moon
 * 취향대로
 * 알퀘이드는 따를 수 없다. => True Ending<br> 알퀘이드를 따른다. => Good Ending
 
+---
+
 ### 아키하
 
 * 홈룸까지 앞으로 몇 분. 지금은 교실로 직행해야 한다.
@@ -133,6 +141,8 @@ tags: type-moon
 * ...그것만은, 할 수 없다.
 * ...아키하한테, 이 생명을 돌려 준다. => True Ending<br> ...그렇게는, 할 수 없다. => Normal Ending
 
+---
+
 ### 히스이
 
 * 홈룸까지 앞으로 몇 분. 지금은 교실로 직행해야 한다.
@@ -158,6 +168,8 @@ tags: type-moon
 * **Save**<br> ...어째서 문을 잠가 놓았지? => True Ending
 * **Load**<br> ...어째서 문을 잠가 놓았지?<br> 코하쿠의 이름을 외친다. => Good Ending
 
+---
+
 ### 코하쿠
 
 * 홈룸까지 앞으로 몇 분. 지금은 교실로 직행해야 한다.
@@ -177,6 +189,8 @@ tags: type-moon
 * ...밖으로 나가 본다.
 * 일단 물러선다.
 * ...눈치채기 전에 처치한다. ⇒ True Ending
+
+---
 
 ### 월식
 

@@ -13,6 +13,8 @@ tags: feng
 * 플랫폼 : Windows
 * 출시 : 2007년 8월 27일
 * 한글화 : 팀 달빛아래
+{% comment %}
+{% endcomment %}
 
 ---
 

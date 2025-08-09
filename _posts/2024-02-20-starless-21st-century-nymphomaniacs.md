@@ -12,6 +12,9 @@ tags: empress
 * 플랫폼 : Windows
 * 출시 : 2011년 8월 12일
 * 오마케 : [다운로드](/assets/omake/starless-21st-century-nymphomaniacs.zip)
+{% comment %}
+https://arca.live/b/atelier2/89337752
+{% endcomment %}
 
 ---
 

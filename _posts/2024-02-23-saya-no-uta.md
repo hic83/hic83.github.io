@@ -14,6 +14,10 @@ tags: nitro
 * 출시 : 2003년 12월 16일
 * 한글화 : 팀 바실리스크
 * 오마케 : [다운로드](/assets/omake/saya-no-uta.zip)
+{% comment %}
+{% endcomment %}
+
+---
 
 ## 공략
 
