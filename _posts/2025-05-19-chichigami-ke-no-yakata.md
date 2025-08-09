@@ -13,6 +13,8 @@ tags: kamichichi
 * 플랫폼 : Windows
 * 출시 : 2025년 04월 25일
 * 오마케 : [다운로드](/assets/omake/chichigami-ke-no-yakata.zip)
+{% comment %}
+{% endcomment %}
 
 ---
 

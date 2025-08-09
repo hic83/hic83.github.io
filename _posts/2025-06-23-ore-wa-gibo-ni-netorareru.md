@@ -13,4 +13,6 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2021년 5월 7일
 * 오마케 : [다운로드](/assets/omake/ore-wa-gibo-ni-netorareru.zip)
-
+{% comment %}
+https://arca.live/b/atelier2/134015828
+{% endcomment %}

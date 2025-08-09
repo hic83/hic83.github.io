@@ -13,6 +13,9 @@ tags: poison
 * 플랫폼 : Windows
 * 출시 : 2019년 5월 31일
 * 오마케 : [다운로드](/assets/omake/shimai-x-saimin-2-zettai-fukujuu.zip)
+{% comment %}
+https://arca.live/b/atelier2/41030447
+{% endcomment %}
 
 ---
 

@@ -13,3 +13,6 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2025년 3월 14일
 * 오마케 : [다운로드](/assets/omake/itsuwari-no-seibo.zip)
+{% comment %}
+https://arca.live/b/atelier2/132191470
+{% endcomment %}

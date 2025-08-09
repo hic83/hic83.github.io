@@ -13,6 +13,9 @@ tags: waffle
 * 플랫폼 : Windows
 * 출시 : 2024년 10월 25일
 * 오마케 : [다운로드](/assets/omake/dorei-himekishi-to-dorei-jijo-to-no-slow-life.zip)
+{% comment %}
+https://arca.live/b/atelier2/59558717
+{% endcomment %}
 
 ---
 

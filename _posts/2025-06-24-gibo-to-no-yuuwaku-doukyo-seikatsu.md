@@ -13,6 +13,9 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2021년 12월 10일
 * 오마케 : [다운로드](/assets/omake/gibo-to-no-yuuwaku-doukyo-seikatsu.zip)
+{% comment %}
+https://arca.live/b/atelier2/41237123
+{% endcomment %}
 
 ---
 

@@ -13,3 +13,6 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2025년 1월 17일
 * 오마케 : [다운로드](/assets/omake/haha-to-ane-to-no-himitsu-no-kazoku-kankei.zip)
+{% comment %}
+https://arca.live/b/atelier2/127267821
+{% endcomment %}

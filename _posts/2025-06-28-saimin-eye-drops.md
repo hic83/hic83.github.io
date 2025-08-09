@@ -13,6 +13,8 @@ tags: orcsoft
 * 플랫폼 : Windows
 * 출시 : 2016년 12월 2일
 * 오마케 : [다운로드](/assets/omake/saimin-eye-drops.zip)
+{% comment %}
+{% endcomment %}
 
 ---
 

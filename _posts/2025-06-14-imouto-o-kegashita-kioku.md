@@ -13,6 +13,8 @@ tags: hamham-soft
 * 플랫폼 : Windows
 * 출시 : 2018년 2월 23일
 * 오마케 : [다운로드](/assets/omake/imouto-o-kegashita-kioku.zip)
+{% comment %}
+{% endcomment %}
 
 ---
 

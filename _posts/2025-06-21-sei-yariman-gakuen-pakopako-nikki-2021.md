@@ -13,3 +13,6 @@ tags: orcsoft
 * 플랫폼 : Windows
 * 출시 : 2021년 12월 24일
 * 오마케 : [다운로드](/assets/omake/sei-yariman-gakuen-pakopako-nikki-2021.zip)
+{% comment %}
+https://arca.live/b/atelier2/41107123
+{% endcomment %}

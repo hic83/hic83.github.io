@@ -13,6 +13,9 @@ tags: ostar
 * 플랫폼 : Windows
 * 출시 : 2012년 7월 27일
 * 오마케 : [다운로드](/assets/omake/bishoujo-mangekyou-wasurenagusa-to-eien-no-shoujo.zip)
+{% comment %}
+https://arca.live/b/atelier2/104384438
+{% endcomment %}
 
 ---
 

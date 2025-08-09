@@ -13,6 +13,9 @@ tags: lune
 * 플랫폼 : Windows
 * 출시 : 2016년 3월 25일
 * 오마케 : [다운로드](/assets/omake/meikoku-gakuen-jutai-hen.zip)
+{% comment %}
+https://arca.live/b/atelier2/142958979
+{% endcomment %}
 
 ---
 

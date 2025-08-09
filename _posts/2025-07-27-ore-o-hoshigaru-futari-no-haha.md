@@ -13,6 +13,9 @@ tags: waffle
 * 플랫폼 : Windows
 * 출시 : 2021년 3월 26일
 * 오마케 : [다운로드](/assets/omake/ore-o-hoshigaru-futari-no-haha.zip)
+{% comment %}
+https://arca.live/b/atelier2/67575877
+{% endcomment %}
 
 ---
 

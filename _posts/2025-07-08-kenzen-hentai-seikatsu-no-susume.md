@@ -13,6 +13,9 @@ tags: clockup
 * 플랫폼 : Windows
 * 출시 : 2017년 7월 28일
 * 오마케 : [다운로드](/assets/omake/kenzen-hentai-seikatsu-no-susume.zip)
+{% comment %}
+https://arca.live/b/atelier2/113983334
+{% endcomment %}
 
 ---
 

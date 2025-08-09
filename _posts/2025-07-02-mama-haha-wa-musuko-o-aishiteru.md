@@ -13,6 +13,9 @@ tags: anim
 * 플랫폼 : Windows
 * 출시 : 2024년 6월 7일
 * 오마케 : [다운로드](/assets/omake/mama-haha-wa-musuko-o-aishiteru.zip)
+{% comment %}
+https://arca.live/b/atelier2/102395495
+{% endcomment %}
 
 ---
 

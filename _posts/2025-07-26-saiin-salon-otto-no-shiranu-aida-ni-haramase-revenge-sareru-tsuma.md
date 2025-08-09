@@ -13,6 +13,9 @@ tags: waffle
 * 플랫폼 : Windows
 * 출시 : 2021년 11월 26일
 * 오마케 : [다운로드](/assets/omake/saiin-salon-otto-no-shiranu-aida-ni-haramase-revenge-sareru-tsuma.zip)
+{% comment %}
+https://arca.live/b/atelier2/66632250
+{% endcomment %}
 
 ---
 

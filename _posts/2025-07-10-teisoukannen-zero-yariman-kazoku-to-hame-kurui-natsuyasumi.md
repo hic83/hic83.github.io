@@ -13,6 +13,8 @@ tags: orcsoft
 * 플랫폼 : Windows
 * 출시 : 2015년 11월 13일
 * 오마케 : [다운로드](/assets/omake/teisoukannen-zero-yariman-kazoku-to-hame-kurui-natsuyasumi.zip)
+{% comment %}
+{% endcomment %}
 
 ---
 

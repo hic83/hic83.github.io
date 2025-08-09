@@ -13,3 +13,6 @@ tags: ammolite
 * 플랫폼 : Windows
 * 출시 : 2025년 3월 28일
 * 오마케 : [다운로드](/assets/omake/wagamama-sensei-wa-boku-no-imouto.zip)
+{% comment %}
+https://arca.live/b/atelier2/138822478
+{% endcomment %}

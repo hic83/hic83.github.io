@@ -13,6 +13,8 @@ tags: poison-extasy
 * 플랫폼 : Windows
 * 출시 : 2021년 3월 26일
 * 오마케 : [다운로드](/assets/omake/cos-tsuma-niizuma-to-ecchi-na-cosplay-lesson.zip)
+{% comment %}
+{% endcomment %}
 
 ---
 

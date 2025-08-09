@@ -13,6 +13,9 @@ tags: silky-s
 * 플랫폼 : Windows
 * 출시 : 2017년 10월 25일
 * 오마케 : [다운로드](/assets/omake/gakuen-saimin-reido.zip)
+{% comment %}
+https://arca.live/b/atelier2/128907493
+{% endcomment %}
 
 ---
 

@@ -13,6 +13,9 @@ tags: empress
 * 플랫폼 : Windows
 * 출시 : 2014년 9월 12일
 * 오마케 : [다운로드](/assets/omake/potential-ability.zip)
+{% comment %}
+https://arca.live/b/atelier2/137334942
+{% endcomment %}
 
 ---
 

@@ -13,6 +13,10 @@ tags: orcsoft
 * 플랫폼 : Windows
 * 출시 : 2023년 6월 24일
 * 오마케 : [다운로드](/assets/omake/muchimuchi-dekapai-marakui-succubus-mama.zip)
+{% comment %}
+https://arca.live/b/atelier2/80665211
+https://arca.live/b/atelier2/142352086
+{% endcomment %}
 
 ---
 ## 공략
@@ -26,6 +30,8 @@ tags: orcsoft
 * 점장이 제정신인지 의심한다
 * 빨래라도 해볼까
 
+---
+
 ### Ending #02
 
 * **Load#01**
@@ -35,10 +41,14 @@ tags: orcsoft
 * **Save#02**
 * SM플레이용 굿즈
 
+---
+
 ### Ending #03
 
 * **Load#02**
 * 코스튬 플레이용 굿즈
+
+---
 
 ### Ending #04
 

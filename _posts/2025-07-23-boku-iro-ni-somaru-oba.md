@@ -13,4 +13,6 @@ tags: dark-one
 * 플랫폼 : Windows
 * 출시 : 2023년 7월 28일
 * 오마케 : [다운로드](/assets/omake/boku-iro-ni-somaru-oba.zip)
-
+{% comment %}
+https://arca.live/b/atelier2/82261980
+{% endcomment %}

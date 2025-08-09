@@ -13,3 +13,6 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2024년 12월 6일
 * 오마케 : [다운로드](/assets/omake/kyonyuu-hitozuma-wa-bonyuu-o-fuite-iki-makuru.zip)
+{% comment %}
+https://arca.live/b/atelier2/127613622
+{% endcomment %}

@@ -13,3 +13,6 @@ tags: ostar
 * 플랫폼 : Windows
 * 출시 : 2014년 2월 28일
 * 오마케 : [다운로드](/assets/omake/bishoujo-mangekyou-katsute-shoujo-datta-kimi-e.zip)
+{% comment %}
+https://arca.live/b/atelier2/58258343
+{% endcomment %}

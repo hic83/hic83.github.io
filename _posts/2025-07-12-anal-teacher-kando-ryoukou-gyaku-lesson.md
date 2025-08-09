@@ -13,3 +13,5 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2016년 6월 10일
 * 오마케 : [다운로드](/assets/omake/anal-teacher-kando-ryoukou-gyaku-lesson.zip)
+{% comment %}
+{% endcomment %}

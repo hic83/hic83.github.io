@@ -13,6 +13,9 @@ tags: milk-factory
 * 플랫폼 : Windows
 * 출시 : 2025년 4월 25일
 * 오마케 : [다운로드](/assets/omake/motto-haramase-honoo-no-oppai-isekai-oppai-bunny-gakuen.zip)
+{% comment %}
+https://arca.live/b/atelier2/136063805
+{% endcomment %}
 
 ---
 

@@ -13,6 +13,9 @@ tags: hamham-soft
 * 플랫폼 : Windows
 * 출시 : 2025년 4월 25일
 * 오마케 : [다운로드](/assets/omake/imouto-miki-chan-no-nama-haishin-channel.zip)
+{% comment %}
+https://arca.live/b/atelier2/135623833
+{% endcomment %}
 
 ---
 

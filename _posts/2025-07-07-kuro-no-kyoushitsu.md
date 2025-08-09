@@ -13,6 +13,9 @@ tags: bishop
 * 플랫폼 : Windows
 * 출시 : 2014년 6월 6일
 * 오마케 : [다운로드](/assets/omake/kuro-no-kyoushitsu.zip)
+{% comment %}
+https://arca.live/b/atelier2/68934371?
+{% endcomment %}
 
 ---
 

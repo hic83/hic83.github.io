@@ -13,6 +13,9 @@ tags: bishop
 * 플랫폼 : Windows
 * 출시 : 2020년 5월 29일
 * 오마케 : [다운로드](/assets/omake/shihai-no-kyoudan-2.zip)
+{% comment %}
+https://arca.live/b/atelier2/138304434
+{% endcomment %}
 
 ---
 

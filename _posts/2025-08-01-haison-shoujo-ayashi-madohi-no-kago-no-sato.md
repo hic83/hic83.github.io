@@ -13,6 +13,10 @@ tags: escu-de
 * 플랫폼 : Windows
 * 출시 : 2022년 12월 23일
 * 오마케 : 폐촌소녀 ~수상한 미혹의 바구니 마을~  [다운로드](/assets/omake/haison-shoujo-ayashi-madohi-no-kago-no-sato.zip)<br> 폐촌소녀 ~낙염이문~ [다운로드](/assets/omake/haison-shoujo-rakuen-ibun.zip)
+{% comment %}
+https://arca.live/b/atelier2/81617616
+https://arca.live/b/atelier2/100852355
+{% endcomment %}
 
 ---
 

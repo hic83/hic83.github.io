@@ -13,6 +13,9 @@ tags: lune
 * 플랫폼 : Windows
 * 출시 : 2019년 3월 22일
 * 오마케 : [다운로드](/assets/omake/kyonyuu-elf-oyako-saimin.zip)
+{% comment %}
+https://arca.live/b/atelier2/126822532
+{% endcomment %}
 
 ---
 

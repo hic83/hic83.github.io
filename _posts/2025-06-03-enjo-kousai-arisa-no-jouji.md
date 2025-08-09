@@ -13,3 +13,6 @@ tags: pachipachi-soft
 * 플랫폼 : Windows
 * 출시 : 2019년 4월 26일
 * 오마케 : [다운로드](/assets/omake/enjo-kousai-arisa-no-jouji.zip)
+{% comment %}
+https://arca.live/b/atelier2/36434982
+{% endcomment %}

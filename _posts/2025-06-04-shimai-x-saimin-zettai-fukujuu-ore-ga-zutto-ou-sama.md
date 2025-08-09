@@ -13,6 +13,9 @@ tags: poison
 * 플랫폼 : Windows
 * 출시 : 2018년 5월 25일
 * 오마케 : [다운로드](/assets/omake/shimai-x-saimin-zettai-fukujuu-ore-ga-zutto-ou-sama.zip)
+{% comment %}
+https://arca.live/b/atelier2/40763502
+{% endcomment %}
 
 ---
 

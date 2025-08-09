@@ -13,6 +13,9 @@ tags: heiantei
 * 플랫폼 : Windows
 * 출시 : 2025년 6월 28일
 * 오마케 : [다운로드](/assets/omake/wakai-otoko-ni-hamatte-shimatta-part-no-okusan-no-ohanashi.zip)
+{% comment %}
+https://arca.live/b/atelier2/141432515
+{% endcomment %}
 
 ---
 

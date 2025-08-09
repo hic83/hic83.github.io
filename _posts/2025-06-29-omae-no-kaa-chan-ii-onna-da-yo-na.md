@@ -13,7 +13,8 @@ tags: orcsoft
 * 플랫폼 : Windows
 * 출시 : 2018년 9월 21일
 * 오마케 : [다운로드](/assets/omake/omae-no-kaa-chan-ii-onna-da-yo-na.zip)
-
+{% comment %}
+{% endcomment %}
 
 ---
 

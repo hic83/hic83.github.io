@@ -13,3 +13,6 @@ tags: apadash
 * 플랫폼 : Windows
 * 출시 : 2021년 11월 19일
 * 오마케 : [다운로드](/assets/omake/gibo-to-no-inmitsu.zip)
+{% comment %}
+https://arca.live/b/atelier2/134016188
+{% endcomment %}

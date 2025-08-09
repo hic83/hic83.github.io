@@ -13,6 +13,9 @@ tags: poison
 * 플랫폼 : Windows
 * 출시 : 2022년 2월 25일
 * 오마케 : [다운로드](/assets/omake/kanochi-x-namaiki-gyaru-chou-kimochi-ii.zip)
+{% comment %}
+https://arca.live/b/atelier2/45933758
+{% endcomment %}
 
 ---
 

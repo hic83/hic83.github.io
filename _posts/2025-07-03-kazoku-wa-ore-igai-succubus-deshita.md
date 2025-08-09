@@ -13,6 +13,9 @@ tags: marine
 * 플랫폼 : Windows
 * 출시 : 2023년 12월 22일
 * 오마케 : [다운로드](/assets/omake/kazoku-wa-ore-igai-succubus-deshita.zip)
+{% comment %}
+https://arca.live/b/atelier2/96666985
+{% endcomment %}
 
 ---
 

@@ -13,3 +13,6 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2014년 3월 21일
 * 오마케 : [다운로드](/assets/omake/anal-mama-ushiro-no-ana-wa-musuko-senyou-na-no.zip)
+{% comment %}
+https://arca.live/b/atelier2/54908418
+{% endcomment %}

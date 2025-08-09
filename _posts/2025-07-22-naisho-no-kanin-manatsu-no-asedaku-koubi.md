@@ -13,6 +13,9 @@ tags: waffle
 * 플랫폼 : Windows
 * 출시 : 2022년 11월 25일
 * 오마케 : [다운로드](/assets/omake/naisho-no-kanin-manatsu-no-asedaku-koubi.zip)
+{% comment %}
+https://arca.live/b/atelier2/63846896
+{% endcomment %}
 
 ---
 

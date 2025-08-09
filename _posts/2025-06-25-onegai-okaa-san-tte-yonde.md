@@ -13,3 +13,6 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2021년 8월 6일
 * 오마케 : [다운로드](/assets/omake/onegai-okaa-san-tte-yonde.zip)
+{% comment %}
+https://arca.live/b/atelier2/50671671
+{% endcomment %}

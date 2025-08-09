@@ -13,6 +13,9 @@ tags: escu-de
 * 플랫폼 : Windows
 * 출시 : 2025년 7월 25일
 * 오마케 : [다운로드](/assets/omake/haison-shoujo-ni-kageri-sasou-hime-no-hako.zip)
+{% comment %}
+https://arca.live/b/atelier2/143702034
+{% endcomment %}
 
 ---
 

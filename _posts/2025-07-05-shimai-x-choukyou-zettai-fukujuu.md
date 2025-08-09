@@ -13,6 +13,9 @@ tags: poison
 * 플랫폼 : Windows
 * 출시 : 2023년 9월 28일
 * 오마케 : [다운로드](/assets/omake/shimai-x-choukyou-zettai-fukujuu.zip)
+{% comment %}
+https://arca.live/b/atelier2/87933261
+{% endcomment %}
 
 ---
 

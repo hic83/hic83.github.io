@@ -13,3 +13,6 @@ tags: pako-pako-soft
 * 플랫폼 : Windows
 * 출시 : 2022년 7월 22일
 * 오마케 : [다운로드](/assets/omake/nyonin-jima-yaru-dake-kanrinin-no-hame-pako-ijuu-seikatsu.zip)
+{% comment %}
+https://arca.live/b/atelier2/49185240
+{% endcomment %}

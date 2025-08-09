@@ -13,3 +13,6 @@ tags: studio-pork
 * 플랫폼 : Windows
 * 출시 : 2024년 12월 10일
 * 오마케 : [다운로드](/assets/omake/hirusagari-no-run-down-apartment-to-hitozuma-tachi.zip)
+{% comment %}
+https://arca.live/b/atelier2/120656749
+{% endcomment %}

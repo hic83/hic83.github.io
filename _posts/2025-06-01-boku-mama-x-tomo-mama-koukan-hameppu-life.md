@@ -13,3 +13,6 @@ tags: anim
 * 플랫폼 : Windows
 * 출시 : 2019년 3월 8일
 * 오마케 : [다운로드](/assets/omake/boku-mama-x-tomo-mama-koukan-hameppu-life.zip)
+{% comment %}
+https://arca.live/b/atelier2/73798314
+{% endcomment %}

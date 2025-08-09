@@ -13,6 +13,9 @@ tags: b-luster
 * 플랫폼 : Windows
 * 출시 : 2015년 1월 30일
 * 오마케 : [다운로드](/assets/omake/rinjin-tonari-no-kirei-na-okaa-san-wa-suki-desu-ka.zip)
+{% comment %}
+https://arca.live/b/atelier2/40680339
+{% endcomment %}
 
 ---
 

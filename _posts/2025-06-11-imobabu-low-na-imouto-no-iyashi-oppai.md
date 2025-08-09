@@ -13,3 +13,6 @@ tags: hamham-soft
 * 플랫폼 : Windows
 * 출시 : 2022년 6월 24일
 * 오마케 : [다운로드](/assets/omake/imobabu-low-na-imouto-no-iyashi-oppai.zip)
+{% comment %}
+https://arca.live/b/atelier2/53111117
+{% endcomment %}

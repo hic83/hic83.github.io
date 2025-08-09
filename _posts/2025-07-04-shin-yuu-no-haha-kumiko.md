@@ -13,6 +13,9 @@ tags: a-model
 * 플랫폼 : Windows
 * 출시 : 2017년 11월 25일
 * 오마케 : [다운로드](/assets/omake/shin-yuu-no-haha-kumiko.zip)
+{% comment %}
+https://arca.live/b/atelier2/66332540
+{% endcomment %}
 
 ---
 

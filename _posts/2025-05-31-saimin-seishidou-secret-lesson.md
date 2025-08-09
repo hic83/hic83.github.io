@@ -13,6 +13,9 @@ tags: dark-one
 * 플랫폼 : Windows
 * 출시 : 2024년 12월 20일
 * 오마케 : [다운로드](/assets/omake/saimin-seishidou-secret-lesson.zip)
+{% comment %}
+https://arca.live/b/atelier2/124474988
+{% endcomment %}
 
 ---
 

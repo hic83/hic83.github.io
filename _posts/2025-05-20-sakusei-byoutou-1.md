@@ -13,3 +13,6 @@ tags: dark-one
 * 플랫폼 : Windows
 * 출시 : 2021년 4월 30일
 * 오마케 : [다운로드](/assets/omake/sakusei-byoutou-1.zip)
+{% comment %}
+https://arca.live/b/atelier2/45537691
+{% endcomment %}

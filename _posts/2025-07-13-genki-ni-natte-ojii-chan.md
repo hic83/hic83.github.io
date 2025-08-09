@@ -13,3 +13,6 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2024년 8월 9일
 * 오마케 : [다운로드](/assets/omake/genki-ni-natte-ojii-chan.zip)
+{% comment %}
+https://arca.live/b/atelier2/116611136
+{% endcomment %}

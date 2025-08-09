@@ -13,6 +13,8 @@ tags: orcsoft
 * 플랫폼 : Windows
 * 출시 : 2018년 4월 13일
 * 오마케 : [다운로드](/assets/omake/yarichin-katei-kyoushi-netori-houkoku.zip)
+{% comment %}
+{% endcomment %}
 
 ---
 

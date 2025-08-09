@@ -13,6 +13,9 @@ tags: poison
 * 플랫폼 : Windows
 * 출시 : 2019년 8월 30일
 * 오마케 : [다운로드](/assets/omake/katei-kyoushi-x-saimin-zettai-juujun.zip)
+{% comment %}
+https://arca.live/b/atelier2/105695558
+{% endcomment %}
 
 ---
 

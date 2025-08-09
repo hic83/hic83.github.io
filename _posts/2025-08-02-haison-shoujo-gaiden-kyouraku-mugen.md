@@ -13,6 +13,9 @@ tags: escu-de
 * 플랫폼 : Windows
 * 출시 : 2025년 1월 31일
 * 오마케 : [다운로드](/assets/omake/haison-shoujo-gaiden-kyouraku-mugen.zip)
+{% comment %}
+https://arca.live/b/atelier2/127973762
+{% endcomment %}
 
 ---
 

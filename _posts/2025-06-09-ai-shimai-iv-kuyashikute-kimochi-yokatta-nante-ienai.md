@@ -13,6 +13,9 @@ tags: silky-s
 * 플랫폼 : Windows
 * 출시 : 2014년 5월 30일
 * 오마케 : [다운로드](/assets/omake/ai-shimai-iv-kuyashikute-kimochi-yokatta-nante-ienai.zip)
+{% comment %}
+https://arca.live/b/atelier2/82109496
+{% endcomment %}
 
 ---
 

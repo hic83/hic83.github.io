@@ -13,6 +13,8 @@ tags: atelier-sakura
 * 플랫폼 : Windows
 * 출시 : 2019년 3월 29일
 * 오마케 : [다운로드](/assets/omake/aniyome-sex-ore-ni-dakareru-eroi-gishi-to-no-ecchi-seikatsu.zip)
+{% comment %}
+{% endcomment %}
 
 ---
 

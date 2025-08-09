@@ -13,6 +13,9 @@ tags: empress
 * 플랫폼 : Windows
 * 출시 : 2015년 9월 18일
 * 오마케 : [다운로드](/assets/omake/closed-game.zip)
+{% comment %}
+https://arca.live/b/atelier2/139196196
+{% endcomment %}
 
 ---
 

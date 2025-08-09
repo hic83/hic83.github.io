@@ -13,6 +13,9 @@ tags: orcsoft
 * 플랫폼 : Windows
 * 출시 : 2017년 12월 1일
 * 오마케 : [다운로드](/assets/omake/shikijou-kyoudan.zip)
+{% comment %}
+https://arca.live/b/atelier2/72599877
+{% endcomment %}
 
 ---
 

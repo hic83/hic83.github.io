@@ -13,3 +13,6 @@ tags: hamham-soft
 * 플랫폼 : Windows
 * 출시 : 2024년 9월 20일
 * 오마케 : [다운로드](/assets/omake/imosapo-genkindde-low-na-kyonyuu-imouto.zip)
+{% comment %}
+https://arca.live/b/atelier2/134015713
+{% endcomment %}

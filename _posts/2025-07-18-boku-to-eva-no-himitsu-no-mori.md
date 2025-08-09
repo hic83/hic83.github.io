@@ -13,6 +13,9 @@ tags: chaos-r freak-strike
 * 플랫폼 : Windows
 * 출시 : 2025년 6월 27일
 * 오마케 : [다운로드](/assets/omake/boku-to-eva-no-himitsu-no-mori.zip)
+{% comment %}
+https://arca.live/b/atelier2/142311273
+{% endcomment %}
 
 ---
 

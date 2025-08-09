@@ -13,6 +13,9 @@ tags: ostar
 * 플랫폼 : Windows
 * 출시 : 2011년 12월 29일
 * 오마케 : [다운로드](/assets/omake/bishoujo-mangekyou-norowareshi-densetsu-no-shoujo.zip)
+{% comment %}
+https://arca.live/b/atelier2/54004918?
+{% endcomment %}
 
 ---
 

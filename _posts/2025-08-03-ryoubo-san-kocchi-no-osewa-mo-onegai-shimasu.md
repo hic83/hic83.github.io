@@ -13,3 +13,6 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2025년 4월 4일
 * 오마케 : [다운로드](/assets/omake/ryoubo-san-kocchi-no-osewa-mo-onegai-shimasu.zip)
+{% comment %}
+https://arca.live/b/atelier2/142170221
+{% endcomment %}

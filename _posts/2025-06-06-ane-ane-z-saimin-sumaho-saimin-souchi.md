@@ -13,6 +13,9 @@ tags: poison
 * 플랫폼 : Windows
 * 출시 : 2021년 5월 28일
 * 오마케 : [다운로드](/assets/omake/ane-ane-z-saimin-sumaho-saimin-souchi.zip)
+{% comment %}
+https://arca.live/b/atelier2/41172947
+{% endcomment %}
 
 ---
 

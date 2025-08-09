@@ -13,6 +13,9 @@ tags: bishop
 * 플랫폼 : Windows
 * 출시 : 2019년 9월 27일
 * 오마케 : [다운로드](/assets/omake/kazoku-haha-to-shimai-no-kyousei.zip)
+{% comment %}
+https://arca.live/b/atelier2/45055565
+{% endcomment %}
 
 ---
 

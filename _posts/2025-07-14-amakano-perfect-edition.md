@@ -13,6 +13,8 @@ tags: azarashi-software
 * 플랫폼 - Windows
 * 출시 - 2016년 10월 28일
 * 오마케 - [다운로드](/assets/omake/amakano-perfect-edition.zip)
+{% comment %}
+{% endcomment %}
 
 ---
 

@@ -7,12 +7,14 @@ tags: dark-one
 
 ## 정보
 
-* 제목 : 
+* 제목 : 최면 학습 -Secret Desire-
 * 원제목 : 催眠学習 -Secret Desire-
 * 개발사 : [Dark One!](/tags/dark-one)
 * 플랫폼 : Windows
 * 출시 : 2021년 3월 26일
 * 오마케 : [다운로드](/assets/omake/saimin-gakushuu-secret-desire.zip)
+{% comment %}
+{% endcomment %}
 
 ---
 

@@ -13,6 +13,8 @@ tags: orcsoft
 * 플랫폼 : Windows
 * 출시 : 2020년 3월 7일
 * 오마케 : [다운로드](/assets/omake/kaa-chan-no-tomodachi-ni-shikotteru-tokoro-mirareta.zip)
+{% comment %}
+{% endcomment %}
 
 ---
 

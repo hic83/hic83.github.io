@@ -13,3 +13,6 @@ tags: waffle
 * 플랫폼 : Windows
 * 출시 : 2024년 10월 20일
 * 오마케 : [다운로드](/assets/omake/haha-sannin-to-ana-asobi.zip)
+{% comment %}
+https://arca.live/b/atelier2/140150851
+{% endcomment %}

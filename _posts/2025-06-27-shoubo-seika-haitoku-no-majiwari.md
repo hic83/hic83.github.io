@@ -13,6 +13,9 @@ tags: rose-crown
 * 플랫폼 : Windows
 * 출시 : 2010년 8월 6일
 * 오마케 : [다운로드](/assets/omake/shoubo-seika-haitoku-no-majiwari.zip)
+{% comment %}
+https://arca.live/b/atelier2/64262207
+{% endcomment %}
 
 ---
 

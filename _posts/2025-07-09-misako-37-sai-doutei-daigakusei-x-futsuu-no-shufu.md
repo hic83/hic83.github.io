@@ -13,6 +13,9 @@ tags: a-model
 * 플랫폼 : Windows
 * 출시 : 2014년 12월 5일
 * 오마케 : [다운로드](/assets/omake/misako-37-sai-doutei-daigakusei-x-futsuu-no-shufu.zip)
+{% comment %}
+https://arca.live/b/atelier2/59080363
+{% endcomment %}
 
 ---
 

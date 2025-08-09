@@ -13,6 +13,9 @@ tags: poison-extasy
 * 플랫폼 : Windows
 * 출시 : 2025년 7월 25일
 * 오마케 : [다운로드](/assets/omake/saikou-ni-tsugou-no-ii-paizuri-jouzu-no-mari-san.zip)
+{% comment %}
+https://arca.live/b/atelier2/144245547
+{% endcomment %}
 
 ---
 

@@ -13,3 +13,6 @@ tags: appetite
 * 플랫폼 : Windows
 * 출시 : 2024년 2월 2일
 * 오마케 : [다운로드](/assets/omake/uchi-no-imouto-wa-anani-ga-osuki.zip)
+{% comment %}
+https://arca.live/b/atelier2/103859493
+{% endcomment %}
