@@ -1,7 +1,7 @@
 ---
 title: 거유 친구 어머니를 젊은 왕자지로 네토리해 임신 하렘을 만드는 이야기
 categories: Omake
-image: /assets/img/kyonyuu-na-tomodachi-no-haha-o-wakai-kyochindde-netotte-haramase-harem-o-tsukuru-hanashi-1.jpg
+image: /assets/img/2025-08-26-kyonyuu-na-tomodachi-no-haha-o-wakai-kyochindde-netotte-haramase-harem-o-tsukuru-hanashi-1.jpg
 tags: miel
 ---
 
