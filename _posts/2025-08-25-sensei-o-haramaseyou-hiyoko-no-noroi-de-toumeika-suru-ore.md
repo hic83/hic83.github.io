@@ -52,6 +52,6 @@ https://arca.live/b/atelier2/114777714
 
 ---
 
-### Harem Ending
+### 하렘 Ending
 
 ※Ending 1과 2를 모두 본 후 **외전 START**  

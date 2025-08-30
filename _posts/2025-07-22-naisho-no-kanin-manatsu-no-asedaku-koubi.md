@@ -69,7 +69,7 @@ https://arca.live/b/atelier2/63846896
 
 ---
 
-### Harem Ending
+### 하렘 Ending
 
 * 3명 모두 Ending 이후에 타이틀 화면의 **ハーレムシナリオ** 감상
 * DLC가 있을 경우 타이틀 화면의 **特典ストーリー 息子嫁との夏、再び** 감상
