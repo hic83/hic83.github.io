@@ -1,7 +1,7 @@
 ---
 title: 노노무라 병원 사람들 리메이크 공략
 categories: Manual
-image: /assets/img/2025-10-15-nonomura-byouin-no-hitobito-remake-1.png
+image: /assets/img/2025-10-15-nonomura-byouin-no-hitobito-remake-1.jpg
 tags: silky-s
 ---
 
