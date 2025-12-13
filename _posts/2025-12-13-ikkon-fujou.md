@@ -12,7 +12,7 @@ tags: tinkerbell
 * 개발사 : [TinkerBell](/tags/tinkerbell)
 * 플랫폼 : Windows
 * 출시 : 2025년 9월 26일
-* 오마케 : [다운로드](/assets/omake/2025-12-13-ikkon-fujou.zip)
+* 오마케 : [다운로드](/assets/omake/ikkon-fujou.zip)
 {% comment %}
 https://arca.live/b/atelier2/151953944
 {% endcomment %}
