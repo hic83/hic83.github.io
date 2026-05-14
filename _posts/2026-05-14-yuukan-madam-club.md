@@ -1,7 +1,7 @@
 ---
 title: 유한 부인 클럽 공략
 categories: Manual
-image: /assets/img/2024-05-14-yuukan-madam-club-1.jpg
+image: /assets/img/2026-05-14-yuukan-madam-club-1.jpg
 tags: empress
 ---
 
