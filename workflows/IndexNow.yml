@@ -33,7 +33,7 @@ jobs:
         env:
           HOST: hic83.github.io
           KEY: Generate API Key # $ 
-          KEY_LOCATION: https://hic83.github.io/Generate API Key.txt   # $ .txt
+          KEY_LOCATION: https://hic83.github.io/282fb9c52a2b44b0be9fed4257a0e5d1.txt   # $ .txt
         run: |
           URL_LIST=$(cat <<EOF
           [
