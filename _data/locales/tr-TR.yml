@@ -46,13 +46,8 @@ not_found:
   statement: Üzgünüz, bu linki yanlış yerleştirdik veya var olmayan bir şeye işaret ediyor.
 
 notification:
-  update_found: Yeni içerik bulundu
+  update_found: İçeriğin yeni bir sürümü mevcut.
   update: Güncelle
-
-theme:
-  light: Açık
-  dark: Koyu
-  system: Sistem
 
 # ----- Posts related labels -----
 
@@ -65,7 +60,6 @@ post:
   read_time:
     unit: dakikada
     prompt: okunabilir
-  edit: Bu gönderiyi düzenle
   relate_posts: Benzer Gönderiler
   share: Paylaş
   button:

@@ -24,6 +24,7 @@
     margin-bottom: 0;
     font-size: v.$code-font-size;
     line-height: 1.4rem;
+    word-wrap: normal; /* Fixed Safari overflow-x */
   }
 
   table {
@@ -65,7 +66,7 @@ code {
   &.highlighter-rouge {
     font-size: v.$code-font-size;
     padding: 3px 5px;
-    overflow-wrap: break-word;
+    word-break: break-word;
     border-radius: v.$radius-sm;
     background-color: var(--inline-code-bg);
   }
@@ -78,7 +79,7 @@ code {
   }
 
   a > &.highlighter-rouge {
-    padding-bottom: 0; /* show link's underline */
+    padding-bottom: 0; /* show link's underlinke */
     color: inherit;
   }
 
@@ -137,8 +138,7 @@ div[class^='language-'] {
         height: v.$code-dot-size;
         border-radius: 50%;
         background-color: var(--code-header-muted-color);
-        box-shadow:
-          (v.$code-dot-size + v.$code-dot-gap) 0 0
+        box-shadow: (v.$code-dot-size + v.$code-dot-gap) 0 0
             var(--code-header-muted-color),
           (v.$code-dot-size + v.$code-dot-gap) * 2 0 0
             var(--code-header-muted-color);
@@ -219,9 +219,8 @@ div {
     @extend %rounded;
 
     border: 1px solid transparent;
-    height: 2rem;
-    width: 2rem;
-    margin-right: 0.125rem;
+    height: v.$code-header-height;
+    width: v.$code-header-height;
     padding: 0;
     background-color: inherit;
 
@@ -235,7 +234,6 @@ div {
       }
 
       i {
-        font-size: 90%;
         color: var(--clipboard-checked-color);
       }
     }
@@ -245,7 +243,7 @@ div {
     }
 
     &:not([timeout]):hover {
-      background-color: rgb(128 128 128 / 37%);
+      background-color: rgba(128, 128, 128, 0.37);
 
       i {
         color: white;

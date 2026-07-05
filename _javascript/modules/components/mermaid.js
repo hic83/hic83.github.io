@@ -3,14 +3,10 @@
  */
 
 const MERMAID = 'mermaid';
-const themeMap = Theme.newThemeMap('default', 'dark');
+const themeMapper = Theme.getThemeMapper('default', 'dark');
 
 function refreshTheme(event) {
-  if (
-    event.source === window &&
-    event.data &&
-    event.data.id === Theme.eventId
-  ) {
+  if (event.source === window && event.data && event.data.id === Theme.ID) {
     // Re-render the SVG › <https://github.com/mermaid-js/mermaid/issues/311#issuecomment-332557344>
     const mermaidList = document.getElementsByClassName(MERMAID);
 
@@ -20,7 +16,7 @@ function refreshTheme(event) {
       elem.removeAttribute('data-processed');
     });
 
-    const newTheme = themeMap[Theme.resolvedTheme];
+    const newTheme = themeMapper[Theme.visualState];
 
     mermaid.initialize({ theme: newTheme });
     mermaid.init(null, `.${MERMAID}`);
@@ -47,7 +43,7 @@ export function loadMermaid() {
     return;
   }
 
-  const initTheme = themeMap[Theme.resolvedTheme];
+  const initTheme = themeMapper[Theme.visualState];
 
   let mermaidConf = {
     theme: initTheme
@@ -58,7 +54,7 @@ export function loadMermaid() {
 
   mermaid.initialize(mermaidConf);
 
-  if (Theme.isToggleable) {
+  if (Theme.switchable) {
     window.addEventListener('message', refreshTheme);
   }
 }

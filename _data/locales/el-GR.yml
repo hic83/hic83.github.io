@@ -46,13 +46,8 @@ not_found:
   statement: Συγνώμη, έχουμε τοποθετήσει λάθος αυτήν την διεύθυνση URL ή υποδεικνύει κάτι που δεν υπάρχει.
 
 notification:
-  update_found: Νέο περιεχόμενο διαθέσιμο
+  update_found: Υπάρχει διαθέσιμη μια νέα έκδοση του περιεχομένου.
   update: Ενημέρωση
-
-theme:
-  light: Φωτεινό
-  dark: Σκοτεινό
-  system: Σύστημα
 
 # ----- Posts related labels -----
 
@@ -65,7 +60,6 @@ post:
   read_time:
     unit: Λεπτά
     prompt: διαβάσματος
-  edit: Επεξεργασία αυτής της δημοσίευσης
   relate_posts: Περισσότερα
   share: Κοινοποιήστε
   button:

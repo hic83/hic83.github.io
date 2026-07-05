@@ -46,13 +46,8 @@ not_found:
   statement: Desculpe, a página não foi encontrada.
 
 notification:
-  update_found: Novo conteúdo encontrado
+  update_found: Uma nova versão do conteúdo está disponível.
   update: atualização
-
-theme:
-  light: Claro
-  dark: Escuro
-  system: Sistema
 
 # ----- Posts related labels -----
 
@@ -65,7 +60,6 @@ post:
   read_time:
     unit: min
     prompt: " de leitura"
-  edit: Editar esta postagem
   relate_posts: Leia também
   share: Compartilhar
   button:

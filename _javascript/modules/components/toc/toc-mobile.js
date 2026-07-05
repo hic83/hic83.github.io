@@ -62,7 +62,6 @@ export class TocMobile {
   static showPopup() {
     this.lockScroll(true);
     $popup.showModal();
-    $btnClose.blur();
     const activeItem = $popup.querySelector('li.is-active-li');
     activeItem.scrollIntoView({ block: 'center' });
   }

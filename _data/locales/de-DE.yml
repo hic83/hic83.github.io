@@ -45,13 +45,8 @@ not_found:
   statement: Entschuldigung, dieser Link verweist auf keine vorhandene Ressource.
 
 notification:
-  update_found: Neue Inhalte verfügbar
+  update_found: Eine neue Version ist verfügbar.
   update: Neue Version
-
-theme:
-  light: Hell
-  dark: Dunkel
-  system: System
 
 # ----- Posts related labels -----
 
@@ -64,7 +59,6 @@ post:
   read_time:
     unit: Minuten
     prompt: Lesezeit
-  edit: Diesen Eintrag bearbeiten
   relate_posts: Weiterlesen
   share: Teilen
   button:
