@@ -1,7 +1,7 @@
 ---
 title: 초광 지도 일지 -학원 통제록- 공략
 categories: Manual
-image: /assets/img/2026-07-05-choukyou-shidou-nisshi-gakuen-touseiroku-1.jpg
+image: /assets/img/2026-07-04-choukyou-shidou-nisshi-gakuen-touseiroku-1.jpg
 tags: bishop
 ---
 

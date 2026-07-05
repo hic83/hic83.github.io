@@ -1,7 +1,7 @@
 ---
 title: 에버 메이든 ~타락한 동산의 아가씨들~ 공략
 categories: Manual
-image: /assets/img/2026-07-04-ever-maiden-daraku-no-sono-no-otome-tachi-1.jpg
+image: /assets/img/2026-07-03-ever-maiden-daraku-no-sono-no-otome-tachi-1.jpg
 tags: liar-soft
 ---
 
