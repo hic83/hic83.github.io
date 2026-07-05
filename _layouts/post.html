@@ -1,6 +1,5 @@
 ---
 layout: default
-refactor: true
 panel_includes:
   - toc
 tail_includes:
@@ -96,18 +95,6 @@ script_includes:
         </div>
       </div>
     </div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6006420005400026"
-     crossorigin="anonymous"></script>
-<!-- Top -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6006420005400026"
-     data-ad-slot="7094927997"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
   </header>
 
   {% if enable_toc %}
@@ -126,9 +113,7 @@ script_includes:
     <dialog id="toc-popup" class="p-0">
       <div class="header d-flex flex-row align-items-center justify-content-between">
         <div class="label text-truncate py-2 ms-4">{{- page.title -}}</div>
-        <button id="toc-popup-close" type="button" class="btn mx-1 my-1 opacity-75">
-          <i class="fas fa-close"></i>
-        </button>
+        <button id="toc-popup-close" type="button" class="btn-close btn-sm mx-3" aria-label="Close"></button>
       </div>
       <div id="toc-popup-content" class="px-4 py-3 pb-4"></div>
     </dialog>
@@ -136,31 +121,24 @@ script_includes:
 
   <div class="content">
     {{ content }}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6006420005400026"
-     crossorigin="anonymous"></script>
-<!-- Bottom -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-6006420005400026"
-     data-ad-slot="8384275198"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
   </div>
 
   <div class="post-tail-wrapper text-muted">
-    <!-- categories -->
-    {% if page.categories.size > 0 %}
-      <div class="post-meta mb-3">
-        <i class="far fa-folder-open fa-fw me-1"></i>
-        {% for category in page.categories %}
-          <a href="{{ site.baseurl }}/categories/{{ category | slugify | url_encode }}/">{{ category }}</a>
-          {%- unless forloop.last -%},{%- endunless -%}
-        {% endfor %}
-      </div>
-    {% endif %}
+    <div class="d-flex justify-content-between align-items-center gap-3 mb-3">
+      <!-- categories -->
+      {% if page.categories.size > 0 %}
+        <div class="post-meta">
+          <i class="far fa-folder-open fa-fw me-1"></i>
+          {% for category in page.categories %}
+            <a href="{{ site.baseurl }}/categories/{{ category | slugify | url_encode }}/">{{ category }}</a>
+            {%- unless forloop.last -%},{%- endunless -%}
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      <!-- "Edit this post" link -->
+      {% include post-edit.html lang=lang %}
+    </div>
 
     <!-- tags -->
     {% if page.tags.size > 0 %}
