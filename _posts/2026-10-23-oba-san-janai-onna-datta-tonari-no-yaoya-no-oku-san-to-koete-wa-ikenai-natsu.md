@@ -1,7 +1,7 @@
 ---
 title: 아줌마가 아닌, 여자였다. ~이웃집 과일 가게 부인과 넘어서는 안 될 여름~
 categories: Omake
-image: /assets/img/oba-san-janai-onna-datta-tonari-no-yaoya-no-oku-san-to-koete-wa-ikenai-natsu-1.jpg
+image: /assets/img/2026-10-23-oba-san-janai-onna-datta-tonari-no-yaoya-no-oku-san-to-koete-wa-ikenai-natsu-1.jpg
 tags: studio-pork
 ---
 

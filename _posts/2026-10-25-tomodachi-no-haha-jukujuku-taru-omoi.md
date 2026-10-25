@@ -1,7 +1,7 @@
 ---
 title: 친구의 어머니 ~무르익은 마음~
 categories: Omake
-image: /assets/img/tomodachi-no-haha-jukujuku-taru-omoi-1.jpg
+image: /assets/img/2026-10-25-tomodachi-no-haha-jukujuku-taru-omoi-1.jpg
 tags: eroit
 ---
 
